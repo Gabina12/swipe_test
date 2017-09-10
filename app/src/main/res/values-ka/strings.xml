@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ავტო კონვერტორი</string>
+    <string name="action_settings">პარამეტრები</string>
+    <string name="hint_text">წვის მაჩვენებელი</string>
+    <string name="title_name">გამოთვლის მეთოდი:</string>
+    <string name="calc_button">გამოთვლა</string>
+    <string name="navigation_drawer_open">გახსნა</string>
+    <string name="navigation_drawer_close">დახურვა</string>
+    <string name="temp_hint_text_temp">ფარენჰეიტი</string>
+    <string name="title_name_temp">ტემპერატურის კონვერტაცია</string>
+    <string name="mgp">MGP</string>
+    <string name="km_l">კმ/ლ</string>
+    <string name="inputDataToast">შეიყვანეთ მაჩვენებელი</string>
+    <string name="resultKM_L">ლ/100კმ</string>
+    <string name="inputTempToast">შეიყვანე ტემპერატურა</string>
+    <string name="celsius">C</string>
+    <string name="Tab1">MPG</string>
+    <string name="Tab2">F/C</string>
+    <string name="Tab3">SECTION 3 ???</string>
+    <string name="ExitToast">აპლიკაციიდან გამოსასვლელად ღილაკ "Back"-ს დააჭირეთ 2-ჯერ</string>
+
+</resources>
